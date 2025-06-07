@@ -1,0 +1,1 @@
+import{a1 as e}from"./index-Cub3tlCS.js";const t=e("app-store",{state:()=>({enable_charts:!1,enable_quick_select_chorus:!0,enable_quick_select_break:!0,enable_quick_fade:!0,enable_advanced_mode:!1,enable_floating_menu:!1,enable_visualizer:!1,enable_fixed_device_target:!0,target_timeline_level:"auto"})});export{t as u};
