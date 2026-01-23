@@ -1,1 +1,0 @@
-import{r as e}from"./index-yLMKGSkL.js";const i=e(window.innerWidth),n=e(window.innerHeight);function t(){i.value=window.innerWidth,n.value=window.innerHeight}window.addEventListener("resize",t);function o(){return{width:i,height:n}}export{o as u};
